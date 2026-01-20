@@ -31,7 +31,7 @@ https://ibtesam-labib.github.io/My-Portfolio-Website/
 
 ##Google Sheet Link--->Below
 
-https://docs.google.com/spreadsheets/u/0/?ec=wgc-sheets-globalnav-goto
+https://docs.google.com/spreadsheets/d/1zMoIjvWfkY6rUzN1LyF-adDGhJboOgzH7PoZcwL1emw/edit?usp=drivesdk
 
 🎨 Figma Design
 Figma prototype link:
